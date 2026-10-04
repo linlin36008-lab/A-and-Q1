@@ -1,4 +1,4 @@
-Novel A&Q Broadcast Bot
+Kage A&Q Broadcast Bot
 
 Railway Variables:
 BOT_TOKEN=your_bot_token
